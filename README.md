@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Federico</h1>
 <h3 align="left">A DevOps Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on [fede-r1c0.github.io](https://github.com/fede-r1c0/fede-r1c0.github.io)
+- 🔭 I’m currently working on [fede-r1c0.github.io](https://www.feder1c0.com)
 
 - 🌱 I’m currently learning **GCP and MCP for devops approach**
 
