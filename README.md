@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GCP and MCP for devops approach**
 
-- 👨‍💻 All of my projects are available at [https://feder1c0.com](https://feder1c0.com)
+- 👨‍💻 All of my projects are available at [https://feder1c0.com](https://www.feder1c0.com)
 
 - 💬 Ask me about **kubernetes, docker, CNCF projects**
 
