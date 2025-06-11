@@ -27,3 +27,10 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/google-cloud.png" alt="gcp" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure" width="36" height="36"/></a>
 </p>
+
+<style>
+	img {
+		aspect-ratio: 1/1;
+		object-fit: contain;
+	}
+</style>
