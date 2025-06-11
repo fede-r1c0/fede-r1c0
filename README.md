@@ -10,13 +10,23 @@
 - 💬 Ask me about **kubernetes, docker, CNCF projects**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="
+	img {
+		aspect-ratio: 1/1;
+		object-fit: contain;
+	}
+">
 <a href="https://linkedin.com/in/feder1c0" target="blank"><img align="center" src="https://static.licdn.com/aero-v1/sc/h/eahiplrwoq61f4uan012ia17i" alt="feder1c0" height="30" width="30" /></a>
 <a href="https://medium.com/@feder1c0" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fill:500:500/7*GAOKVe--MXbEJmV9230oOQ.png" alt="@feder1c0" height="32" width="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="
+	img {
+		aspect-ratio: 1/1;
+		object-fit: contain;
+	}
+">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" alt="linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/bash.png" alt="bash" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/git.png" alt="git" width="40" height="40"/></a>
@@ -27,10 +37,3 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/google-cloud.png" alt="gcp" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure" width="36" height="36"/></a>
 </p>
-
-<style>
-	img {
-		aspect-ratio: 1/1;
-		object-fit: contain;
-	}
-</style>
