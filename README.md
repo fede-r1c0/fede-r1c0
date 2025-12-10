@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Federico</h1>
 <h3 align="left">A DevOps Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on [https://github.com/fede-r1c0/homelab](https://github.com/fede-r1c0/homelab)
-
 - 🌱 I’m currently learning **Gen AI, Agents and MCP.**
 
 - 👨‍💻 All of my projects are available at [https://feder1c0.com](https://www.feder1c0.com)
